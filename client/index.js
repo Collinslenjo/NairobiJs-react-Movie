@@ -1,5 +1,15 @@
-import React from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
+//import CreateMovies from './components/CreateMovie.jsx';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+class CreateMovies extends Component {
+render(){
+  return (
+    <div stye="text-align:centre;">
+      <h3>Hello NairobiJs</h3>
+    </div>
+  );
+}
+}
+
+ReactDOM.render(<CreateMovies/> , document.getElementById('root'));
