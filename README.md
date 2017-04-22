@@ -1,11 +1,11 @@
-# React-Startpack
+# NairobiJS React-Movies
 Bare minimum setup for a simple react app. Should save you a lot of time. You are very welcome!!
 
 For a detailed description of how the startpack works head over to the link below:
 
 https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 
-## Pre-requisites 
+## Pre-requisites
 
 * Install node on your machine
 * Install yarn (yarn is used in place of npm)
